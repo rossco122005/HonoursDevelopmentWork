@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "Entities"
+		},
+		{
+			"path": "Context"
+		},
+		{
+			"path": "Api"
+		},
+		{
+			"path": "ApiConsume"
+		}
+	],
+	"settings": {}
+}
