@@ -22,3 +22,11 @@ C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development 
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v1\Entities\obj\Debug\netstandard2.0\Entities.pdb

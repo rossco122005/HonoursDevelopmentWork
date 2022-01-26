@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\MVCApp\\MVCApp.csproj": {}
+    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\MVCApp\\MVCApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\Context.csproj": {
+    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\Context.csproj",
+        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\Context.csproj",
+        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\Context.csproj",
         "packagesPath": "C:\\Users\\Ross\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\obj\\",
+        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ross\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\Entities.csproj"
+              "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\Entities.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Ross\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ross\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -117,14 +117,14 @@
         }
       }
     },
-    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\MVCApp\\MVCApp.csproj": {
+    "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\MVCApp\\MVCApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\MVCApp\\MVCApp.csproj",
+        "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\MVCApp\\MVCApp.csproj",
         "projectName": "MVCApp",
-        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\MVCApp\\MVCApp.csproj",
+        "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\MVCApp\\MVCApp.csproj",
         "packagesPath": "C:\\Users\\Ross\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\MVCApp\\obj\\",
+        "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\MVCApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ross\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -138,8 +138,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\Context.csproj": {
-                "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Monolithic\\v1\\Context\\Context.csproj"
+              "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\Context.csproj": {
+                "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v1\\Context\\Context.csproj"
               }
             }
           }
