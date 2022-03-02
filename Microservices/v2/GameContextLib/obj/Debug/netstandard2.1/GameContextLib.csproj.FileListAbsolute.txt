@@ -1,0 +1,12 @@
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\bin\Debug\netstandard2.1\GameContextLib.deps.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\bin\Debug\netstandard2.1\GameContextLib.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\bin\Debug\netstandard2.1\GameContextLib.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\bin\Debug\netstandard2.1\GameEntitiesLib.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\bin\Debug\netstandard2.1\GameEntitiesLib.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.csprojAssemblyReference.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.AssemblyInfoInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.AssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.csproj.CopyComplete
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameContextLib\obj\Debug\netstandard2.1\GameContextLib.pdb

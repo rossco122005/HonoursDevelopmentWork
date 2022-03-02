@@ -1,0 +1,66 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Game</h4>
+<hr />
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+<!--CREATE FUNCTION-->
+<script type="text/javascript">
+function createGame() {
+    var game = {gameTitle :"", genre:"", releaseYear:"", description:""};
+    game.gameTitle = document.getElementById("GameTitle").value;
+    game.genre = document.getElementById("Genre").value;
+    game.releaseYear = document.getElementById("ReleaseYear").value;
+    game.description = document.getElementById("Description").value;
+    $.ajax({
+        type: "POST",
+        data :JSON.stringify(game),
+        url: "https://localhost:5001/api/games",
+        contentType: "application/json"
+    });
+    window.location.replace("https://localhost:5002/Games");
+};
+</script>
+
+
+
+<table>
+    <tr>
+        <th>Game Title</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="GameTitle" value="" size="50"></td>
+    </tr>
+    <tr>
+        <th>Genre</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="Genre" value="" size="50"></td>
+    </tr>
+    <tr>
+        <th>Release Year</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="ReleaseYear" value="" size="50"></td>
+    </tr>
+    <tr>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="Description" value="" size="50"></td>
+    </tr>
+</table>
+
+</br>
+
+<input type="submit" value="Create" onclick="createGame()" class="btn btn-primary" />
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

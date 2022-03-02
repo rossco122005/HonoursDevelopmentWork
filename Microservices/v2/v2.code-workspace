@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "GameEntitiesLib"
+		},
+		{
+			"path": "GameContextLib"
+		},
+		{
+			"path": "GameService"
+		},
+		{
+			"path": "SimpleHTML"
+		},
+		{
+			"path": "GameConsume"
+		}
+	],
+	"settings": {}
+}

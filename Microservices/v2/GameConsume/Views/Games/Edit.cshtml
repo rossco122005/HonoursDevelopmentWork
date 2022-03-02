@@ -1,0 +1,69 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Game</h4>
+<hr />
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<!--UPDATE FUNCTION-->
+<script type="text/javascript">
+function updateGame() {
+    var game = {gameID:0, gameTitle :"", genre:"", releaseYear:"", description:""};
+    game.gameID = @Model.GameID;
+    game.gameTitle = document.getElementById("GameTitle").value;
+    game.genre = document.getElementById("Genre").value;
+    game.releaseYear = document.getElementById("ReleaseYear").value;
+    game.description = document.getElementById("Description").value;
+    $.ajax({
+        type: "PUT",
+        data :JSON.stringify(game),
+        url: "https://localhost:5001/api/games/" + @Model.GameID,
+        contentType: "application/json"
+    });
+    window.location.replace("https://localhost:5002/Games");
+};
+</script>
+
+
+<table>
+    <tr>
+        <th>Game Title</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="GameTitle" value="@Model.GameTitle" size="50"></td>
+    </tr>
+    <tr>
+        <th>Genre</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="Genre" value="@Model.Genre" size="50"></td>
+    </tr>
+    <tr>
+        <th>Release Year</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="ReleaseYear" value="@Model.ReleaseYear" size="50"></td>
+    </tr>
+    <tr>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><input type="text" id="Description" value="@Model.Description" size="50"></td>
+    </tr>
+</table>
+
+<input type="submit" value="Create" onclick="updateGame()" class="btn btn-primary" />
+
+</br>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
