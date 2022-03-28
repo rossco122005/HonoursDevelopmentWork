@@ -83,8 +83,6 @@ namespace GameService.Controllers
         [ProducesResponseType(404)]
         public async Task<IActionResult> Update(int id, [FromBody] Game c)
         {
-            //id = id.ToUpper();
-            //c.CustomerID = c.CustomerID.ToUpper();
             if(c == null || c.GameID != id)
             {
                 return BadRequest();// 400 Bad request
@@ -109,19 +107,6 @@ namespace GameService.Controllers
         [ProducesResponseType(404)]
         public async Task<IActionResult> Delte(int id)
         {
-            /*(id == "bad")
-            {
-                var problemDetails = new ProblemDetails
-                {
-                    Status = StatusCodes.Status400BadRequest,
-                    Type = "https://localhost:5001/games/failed-to-delete",
-                    Title = $"Game ID {id} found but failed to delete.",
-                    Detail = "More details like Release Year and so on.",
-                    Instance = HttpContext.Request.Path
-                };
-                return BadRequest(problemDetails); //400 Bad request
-            }*/
-
             var existing = await repo.RetrieveAsync(id);
             if(existing == null)
             {

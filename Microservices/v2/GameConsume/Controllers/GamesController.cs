@@ -23,11 +23,7 @@ namespace GameConsume.Controllers
             HttpResponseMessage response = await client.GetAsync("Games");
             string jsonString = await response.Content.ReadAsStringAsync();
             IEnumerable<Game> model = JsonConvert.DeserializeObject<IEnumerable<Game>>(jsonString);
-            return View(model);
-
-            /* View before changing to using the api
-            return View(await _context.Game.ToListAsync());
-            */
+            return View(model);        
         }
 
         // GET: Games/Create
@@ -65,6 +61,31 @@ namespace GameConsume.Controllers
             HttpResponseMessage response = await client.GetAsync("Games/" + id);
             string jsonString = await response.Content.ReadAsStringAsync();
             Game model = JsonConvert.DeserializeObject<Game>(jsonString);
+            return View(model);
+        }
+
+        // GET: Games/CreateTest
+        public IActionResult CreateTest()
+        {
+            return View();
+        }
+
+        // GET: Games/EditTest
+        public IActionResult EditTest()
+        {
+            return View();
+        }
+
+        // GET: Games/DeleteTest
+        public async Task<IActionResult> DeleteTest()
+        {
+            HttpClient client = new HttpClient();
+            client.BaseAddress = new Uri("https://localhost:5001/api/");
+            HttpResponseMessage response = await client.GetAsync("Games");
+            string jsonString = await response.Content.ReadAsStringAsync();
+            IEnumerable<Game> models = JsonConvert.DeserializeObject<IEnumerable<Game>>(jsonString);
+            Game model = new Game();
+            model = models.Last();
             return View(model);
         }
     }

@@ -9,3 +9,15 @@ C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development 
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.dll
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\bin\Debug\netstandard2.1\Context.deps.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\bin\Debug\netstandard2.1\Context.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\bin\Debug\netstandard2.1\Context.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\bin\Debug\netstandard2.1\Entities.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\bin\Debug\netstandard2.1\Entities.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.csprojAssemblyReference.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.AssemblyInfoInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.AssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.csproj.CopyComplete
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\Context\obj\Debug\netstandard2.1\Context.pdb

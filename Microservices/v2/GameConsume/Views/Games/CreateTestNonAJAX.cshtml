@@ -1,0 +1,61 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Test</h1>
+<hr />
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+<!--CREATE FUNCTION-->
+<script type="text/javascript">
+function createGame() {
+    var game = {gameTitle :"", genre:"", releaseYear:"", description:""};
+    game.gameTitle = "Test Title";
+    game.genre = "Test Genre";
+    game.releaseYear = "2022";
+    game.description = "Test Description";
+    /*$.ajax({
+        type: "POST",
+        data :JSON.stringify(game),
+        url: "https://localhost:5001/api/games",
+        contentType: "application/json"
+    });*/
+    //$.post("https://localhost:5001/api/games", "Hello World")
+        //function(data, status){
+    //alert("Data: " + data + "\nStatus: " + status);
+  //});
+  //$.post("https://localhost:5001/api/games", {gameTitle: "Test Title", genre: "Test Genre", releaseYear: "2022", description: "Test Description"},
+  /*{
+    "Hello World"
+    //gameTitle : "Test Title",
+    //genre : "Test Genre",
+    //releaseYear : "2022",
+    //description : "Test Description"
+  },*/
+  //function(data, status){
+    //alert("Data: " + data + "\nStatus: " + status);
+  //});
+  $.post({
+    url: "https://localhost:5001/api/games",
+    data: JSON.stringify(game),
+    contentType: 'application/json'
+})
+    .done(function (response) {
+        //Do something on success response...
+        alert("Hello World");
+    });
+};
+</script>
+
+
+<!--<<body onload="createGame()"></body>-->
+
+<script>
+    console.log("Hello");
+    createGame();
+    //window.onload=createGame();
+    //$( document ).ready( createGame );
+    //$( window ).on( "load", createGame );
+</script>

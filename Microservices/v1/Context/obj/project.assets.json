@@ -1222,11 +1222,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Microservices\\v1\\Context\\Context.csproj",
+      "projectUniqueName": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\Context\\Context.csproj",
       "projectName": "Context",
-      "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Microservices\\v1\\Context\\Context.csproj",
+      "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\Context\\Context.csproj",
       "packagesPath": "C:\\Users\\Ross\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Microservices\\v1\\Context\\obj\\",
+      "outputPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\Context\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ross\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1240,8 +1240,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Microservices\\v1\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\Microservices\\v1\\Entities\\Entities.csproj"
+            "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\Entities\\Entities.csproj"
             }
           }
         }
@@ -1275,7 +1275,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

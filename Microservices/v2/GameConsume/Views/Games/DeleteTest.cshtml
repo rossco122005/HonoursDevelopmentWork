@@ -1,0 +1,22 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<!--DELETE FUNCTION -->
+<script type="text/javascript">
+function deleteGame() {
+    var gameID = @Model.GameID;
+    var x =  "https://localhost:5001/api/games/" + gameID;
+    $.ajax({
+        type: "DELETE",
+        url: x,
+        contentType: "application/json"
+    });
+};
+</script>
+
+<h1>Delete Test</h1>
+
+<body onload="deleteGame()"></body>

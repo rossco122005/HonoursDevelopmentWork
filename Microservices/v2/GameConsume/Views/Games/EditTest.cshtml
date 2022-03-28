@@ -1,0 +1,33 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Test</h1>
+
+<hr />
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<!--UPDATE FUNCTION-->
+<script type="text/javascript">
+function updateGame() {
+    var game = {gameID:0, gameTitle :"", genre:"", releaseYear:"", description:""};
+    game.gameID = 6;
+    game.gameTitle = "Game To Edit For Test";
+    game.genre = "Game To Edit For Test";
+    game.releaseYear = "2022";
+    game.description = "Test edit description description description description";
+    $.ajax({
+        type: "PUT",
+        data :JSON.stringify(game),
+        url: "https://localhost:5001/api/games/" + 6,
+        contentType: "application/json"
+    });
+};
+</script>
+
+<!--<body onload="updateGame()"></body>-->
+
+<script>
+    updateGame();
+</script>

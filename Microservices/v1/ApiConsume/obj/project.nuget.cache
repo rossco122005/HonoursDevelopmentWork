@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FhKR3ME9pLmLZjtt8zEvj1j7RBAErro6d0QgDsVUm6LTb3DvpjQyEiM4kDA3Ug6iHKJEAw0XtkmoaFjjrHenmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v1\\ApiConsume\\ApiConsume.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ross\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ross\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Ross\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

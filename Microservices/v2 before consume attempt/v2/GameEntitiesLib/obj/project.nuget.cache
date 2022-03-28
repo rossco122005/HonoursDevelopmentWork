@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYPmtTn1EoXMh9JdlPCSubtyhM9KEsBt9x6B4C3NSg+t4w7OsrX9ZZz6tME0oQ8wnEYvlTTiClmAX0HDlv/q7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Microservices\\v2\\GameEntitiesLib\\GameEntitiesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ross\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ross\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

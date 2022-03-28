@@ -149,5 +149,74 @@ namespace MvcGame.Controllers
         {
             return _context.Game.Any(e => e.GameID == id);
         }
+
+        // Get: Games/GamesTest
+        public async Task<IActionResult> CreateTest()
+        {
+            Game game = new Game();
+            game.GameTitle = "Test Title";
+            game.Genre = "Test Genre";
+            game.ReleaseYear = "2022";
+            game.Description = "Test Description";
+
+            if (ModelState.IsValid)
+            {
+                _context.Add(game);
+                await _context.SaveChangesAsync();
+            }
+
+            return View();
+        }
+
+        // Get: Games/EditTest
+        public async Task<IActionResult> EditTest()
+        {
+            int id = 6;
+            Game game = new Game();
+            game.GameID = id;
+            game.GameTitle = "Game To Edit For Test";
+            game.Genre = "Test Genre Genre";
+            game.ReleaseYear = "2022";
+            game.Description = "Test edit ";
+
+            if (id != game.GameID)
+            {
+                return NotFound();
+            }
+
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _context.Update(game);
+                    await _context.SaveChangesAsync();
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!GameExists(game.GameID))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
+            }
+            return View();
+        }
+
+        // Get: Games/DeleteTest
+        public async Task<IActionResult> DeleteTest()
+        {
+            IEnumerable<Game> games = _context.Game;
+            int id = games.Last().GameID;
+        
+            var game = await _context.Game.FindAsync(id);
+            _context.Game.Remove(game);
+            await _context.SaveChangesAsync();
+
+            return View();
+        }
     }
 }

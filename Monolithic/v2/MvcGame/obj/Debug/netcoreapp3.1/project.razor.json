@@ -14407,6 +14407,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v2\\MvcGame\\Views\\Games\\EditTest.cshtml",
+      "TargetPath": "Views\\Games\\EditTest.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v2\\MvcGame\\Views\\Games\\Edit.cshtml",
       "TargetPath": "Views\\Games\\Edit.cshtml",
       "FileKind": "mvc"
@@ -14439,6 +14444,16 @@
     {
       "FilePath": "c:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v2\\MvcGame\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v2\\MvcGame\\Views\\Games\\CreateTest.cshtml",
+      "TargetPath": "Views\\Games\\CreateTest.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Ross\\Documents\\UWS\\Year 4\\Term 1\\Computing Honours Project\\Development Work\\GitHub Repo\\Monolithic\\v2\\MvcGame\\Views\\Games\\DeleteTest.cshtml",
+      "TargetPath": "Views\\Games\\DeleteTest.cshtml",
       "FileKind": "mvc"
     },
     {

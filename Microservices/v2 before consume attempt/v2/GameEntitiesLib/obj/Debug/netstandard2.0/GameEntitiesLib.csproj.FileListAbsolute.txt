@@ -1,0 +1,9 @@
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\bin\Debug\netstandard2.0\GameEntitiesLib.deps.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\bin\Debug\netstandard2.0\GameEntitiesLib.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\bin\Debug\netstandard2.0\GameEntitiesLib.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.csprojAssemblyReference.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.AssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v2\GameEntitiesLib\obj\Debug\netstandard2.0\GameEntitiesLib.pdb

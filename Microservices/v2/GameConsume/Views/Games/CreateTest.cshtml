@@ -1,0 +1,33 @@
+@model v2.shared.Game
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create Test</h1>
+<hr />
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+<!--CREATE FUNCTION-->
+<script type="text/javascript">
+function createGame() {
+    var game = {gameTitle :"", genre:"", releaseYear:"", description:""};
+    game.gameTitle = "Test Title";
+    game.genre = "Test Genre";
+    game.releaseYear = "2022";
+    game.description = "Test Description";
+    $.ajax({
+        type: "POST",
+        data :JSON.stringify(game),
+        url: "https://localhost:5001/api/games",
+        contentType: "application/json"
+    });
+};
+</script>
+
+
+<!--<<body onload="createGame()"></body>-->
+
+<script>
+    createGame();
+</script>

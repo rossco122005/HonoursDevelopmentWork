@@ -175,3 +175,6 @@ C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development 
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\Details.cshtml.g.cs
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\Edit.cshtml.g.cs
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\Index.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\CreateTest.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\DeleteTest.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Monolithic\v2\MvcGame\obj\Debug\netcoreapp3.1\Razor\Views\Games\EditTest.cshtml.g.cs

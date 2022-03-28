@@ -36,3 +36,43 @@ C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development 
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Entities.dll
 C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.exe
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.deps.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.runtimeconfig.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.runtimeconfig.dev.json
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.Views.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\ApiConsume.Views.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.csprojAssemblyReference.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.AssemblyInfoInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.AssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.csproj.CoreCompileInputs.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.RazorAssemblyInfo.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.RazorAssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.TagHelpers.input.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.TagHelpers.output.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.RazorCoreGenerate.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.RazorTargetAssemblyInfo.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.RazorTargetAssemblyInfo.cs
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.Views.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.csproj.CopyComplete
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\staticwebassets\ApiConsume.StaticWebAssets.Manifest.cache
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\staticwebassets\ApiConsume.StaticWebAssets.xml
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.dll
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.pdb
+C:\Users\Ross\Documents\UWS\Year 4\Term 1\Computing Honours Project\Development Work\GitHub Repo\Microservices\v1\ApiConsume\obj\Debug\netcoreapp3.0\ApiConsume.genruntimeconfig.cache
